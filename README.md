@@ -16,7 +16,7 @@ Here's an overview of our **Manifold-constrained Adaptive Clustering (MacNet)** 
 
 Here's some exciting experimental results of both active interpretbility and passive interpretabiity that explain both decision-making process and outcome contribution:
 
-![Figure 1](./images/vis_whole.png)
+![Figure 1](./images/xxx.png)
 
 ## :mag: TODO
 <font color="red">**We are currently organizing all the code. Stay tuned!**</font>
