@@ -24,3 +24,6 @@ Here's some exciting experimental results of both active interpretbility and pas
 - [x] Evaluation and Visualization code
 - [x] Model code
 - [ ] Pretrained weights
+
+## :postbox: Contact
+If you have any questions, please contact [Dr.Pan Huang](https://scholar.google.com/citations?user=V_7bX4QAAAAJ&hl=zh-CN) (`panhuang@polyu.edu.hk`).
