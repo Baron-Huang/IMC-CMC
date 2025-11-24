@@ -1,4 +1,4 @@
-# A Instance-causality Mamba Clustering with Cluster Marginal-probability Optimization for Whole-slide Image Interpretable Classification
+# An Instance-causality Mamba Clustering with Cluster Marginal-probability Optimization for Whole-slide Image Interpretable Classification
 
 ## 🤹 Authors [*Corresponding author]
 - Pan Huang, _Member_, _IEEE_, Jing Qin*, _Senior Member_, _IEEE_, and Xin Luo, _Fellow_, _IEEE_
