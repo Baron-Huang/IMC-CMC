@@ -10,7 +10,7 @@
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Manifold-constrained Adaptive Clustering (MacNet)** method:
+Here's an overview of our **Instance-causality Mamba Clustering with Cluster Marginal-probability Optimization (IMC-CMO)** method:
 
 ![Figure 1](./images/xxx.png)
 
