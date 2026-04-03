@@ -1,9 +1,9 @@
 # An Instance-causality Mamba Clustering with Cluster Marginal-probability Contrast for Explainably Learning SCC Spatial-causality
 ## 🤹 Authors [*Corresponding author]
-- Pan Huang, _Member_, _IEEE_, Chentao Li*, and Jing Qin*, _Senior Member_, _IEEE_
+- Pan Huang, Chentao Li*, and Jing Qin*
 
 ## :fire: News
-- [2025/12/18] Our manuscript was submitted to _IEEE Transactions on Medical Imaging_ (IF 9.8).
+- [2026/05/20] Our manuscript was submitted to _Nature Communications_ (IF 15.5).
 
 
 
