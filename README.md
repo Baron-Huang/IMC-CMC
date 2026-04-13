@@ -1,4 +1,4 @@
-# An Instance-causality Mamba Clustering with Cluster Marginal-probability Contrast for Actively Explaining Spatial-causality in Squamous Cell Carcinoma Grading
+# A Weakly-supervised Network with Causal Logic Subtrees-based Interactive Explanation for Squamous Cell Carcinoma Clinical Grading
 ## 🤹 Authors [*Corresponding author]
 - Pan Huang, Chentao Li*, and Jing Qin*
 
@@ -9,7 +9,7 @@
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Instance-causality Mamba Clustering with Cluster Marginal-probability Contrast (IMC-CMC)** method:
+Here's an overview of our **Weakly-supervised Network with Causal Logic Subtrees-based Interactive Explanation (CauTree)** method:
 
 ![Figure 1](./images/xxx.png)
 
