@@ -1,4 +1,4 @@
-# Causally Interaction XAI Constructs Next-generation Biomarker System for Squamous Differentiation Diagnosis
+# Globally Generalizable Causal-interaction XAI Constructs Next-generation Continuous Score System for Squamous Differentiation
 ## 🤹 Authors [*Corresponding author]
 - Pan Huang, Chentao Li*, and Jing Qin*
 
@@ -9,7 +9,7 @@
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Causally Interaction XAI Constructs A Next-generation Biomarker System (CauXAI)** method:
+Here's an overview of our **Globally Generalizable Causal-interaction XAI Constructs Next-generation Continuous Score System (CauXAI)** method:
 
 ![Figure 1](./images/xxx.png)
 
