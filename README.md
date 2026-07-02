@@ -9,7 +9,7 @@
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Actively-interpretable Clustering with Counterfactual-interaction Mixing Circuits (DiffeReason)** method:
+Here's an overview of our **Mamba-based causal clustering with counterfactual-interaction mixing circuits (DiffeReason)** method:
 
 ![Figure 1](./Images/Figure_1.jpg)
 
