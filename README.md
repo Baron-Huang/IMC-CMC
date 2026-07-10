@@ -11,7 +11,7 @@
 
 Here's an overview of our **Mamba-based causal clustering with counterfactual-interaction mixing circuits (DiffeReason)** method:
 
-![Figure 1](./Images/Figure_1.jpg)
+![Figure 1](./Images/Figure_2.jpg)
 
 Here's some exciting experimental results of both active interpretbility and passive interpretabiity that explain both decision-making process and outcome contribution:
 
