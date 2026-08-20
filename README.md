@@ -9,7 +9,7 @@
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Mamba-based causal clustering with counterfactual-interaction mixing circuits (DiffeReason)** method:
+Here's an overview of our **Mamba-based causal clustering with circuit-trees rule reasoning (DiffeReason)** method:
 
 ![Figure 1](./Images/Figure_2.jpg)
 
